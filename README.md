@@ -1,7 +1,5 @@
 # hello-fun
 
-[TAP Requirements Doc](https://docs.google.com/document/d/1Af66UbjEABF8GGYGbN-bGHRuakGsf-oAdQ4JvuR5HUY/edit#heading=h.jgnkc0jhnafj)
-
 This repo provides a simple Hello web app based on Spring Boot and Spring Cloud Function.
 
 It can be deployed as a standalone web app, as a Tanzu Application Platform workload resource or, as a Kubernetes Deployment and Service.
